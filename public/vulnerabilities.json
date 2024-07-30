@@ -1,0 +1,1148 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "uuid": "37bd4bf4-ffbb-36a6-af33-20062c1f43a7",
+      "name": "Outdated PHP",
+      "severity": "HIGH",
+      "category": "Generic",
+      "description": "Sed illo et deleniti nihil consequatur. Aut dignissimos aut vel. Minima facilis harum saepe quo molestias dolor consequatur. Fugiat et quis quam et delectus.",
+      "remediation": "Ea sit iste quia rem quisquam qui. Qui dignissimos id animi veritatis quibusdam saepe est. Consequatur quisquam asperiores ipsa illo in.",
+      "exploit_available": 1,
+      "cvss_score": 2.4,
+      "cvss3_score": 5.8,
+      "cves": [
+        "Nulla tempora voluptatem et delectus. Aspernatur sit voluptatum quia aperiam. Autem aliquid quas ut animi vel ipsam minima.",
+        "Qui vero aliquid ducimus saepe. Repudiandae aspernatur quaerat quo excepturi. Et amet et accusamus voluptas sit nihil consequatur. Aut eum unde rem quibusdam."
+      ],
+      "external_links": [
+        {
+          "url": "https://hirthe.com/cumque-aliquid-iure-saepe-non.html",
+          "title": "See Also"
+        },
+        {
+          "url": "http://www.hamill.com/accusamus-et-quaerat-nulla-sed-accusantium-consequatur",
+          "title": "See Also"
+        }
+      ],
+      "nessus_plugin_family": "Voluptatum voluptatibus eius ut quia occaecati iure voluptatum atque. Autem quibusdam iusto id consequatur veniam. Voluptatibus in nihil atque molestiae. Voluptatem labore rerum aut.",
+      "nessus_plugin_id": null,
+      "created_at": "2023-01-30 15:44:05",
+      "updated_at": "2023-01-30 15:44:05",
+      "deleted_at": null,
+      "additional_affected_asset_fields": [
+        "Ms. Dolores McCullough MD",
+        "Mrs. Aglae Lindgren DDS",
+        "Alexzander Romaguera"
+      ],
+      "record_to_remove": null
+    },
+    {
+      "uuid": "1b286949-de0e-3425-9116-b5451bd36520",
+      "name": "Vulnerable WordPress version",
+      "severity": "MEDIUM",
+      "category": "Generic",
+      "description": "Est et quia possimus recusandae quaerat autem voluptatem. Rerum doloremque laboriosam sit rerum. Illo tenetur delectus aut aut velit harum commodi.",
+      "remediation": "Adipisci quis molestiae eveniet. Quo necessitatibus commodi voluptatem sunt qui. Dolor accusamus laudantium omnis impedit id.",
+      "exploit_available": 1,
+      "cvss_score": 9.9,
+      "cvss3_score": 6.8,
+      "cves": [
+        "Praesentium et facere id et aut. Quidem accusamus itaque eos ullam soluta dolorum. Necessitatibus ducimus ea aut commodi.",
+        "Quibusdam deleniti non aspernatur reprehenderit odio. Vitae repellendus ut sit qui sint. Pariatur porro maiores ut. Nesciunt id numquam adipisci sint est aut. In dolorum est qui rem pariatur."
+      ],
+      "external_links": [
+        {
+          "url": "http://www.kemmer.com/",
+          "title": "See Also"
+        },
+        {
+          "url": "http://www.hane.net/molestias-voluptatibus-et-in-in-quas-unde-mollitia",
+          "title": "See Also"
+        }
+      ],
+      "nessus_plugin_family": "Magnam molestias et voluptas dolorem sequi est. Magnam culpa consequuntur non ipsum. Ea incidunt qui et est eos iure est.",
+      "nessus_plugin_id": null,
+      "created_at": "2023-01-30 15:44:05",
+      "updated_at": "2023-01-30 15:44:05",
+      "deleted_at": null,
+      "additional_affected_asset_fields": [
+        "Mrs. Lea Kerluke IV",
+        "Mrs. Queen McClure II",
+        "Elza Schuster"
+      ],
+      "record_to_remove": null
+    },
+    {
+      "uuid": "24573fce-e0f0-33de-85a2-bcfe204249b9",
+      "name": "Apache 2.0 is super vulnerable",
+      "severity": "LOW",
+      "category": "Generic",
+      "description": "Blanditiis doloribus quia ullam ad. Omnis corporis asperiores veritatis. Nihil sed fugit aut iure harum voluptas quia.",
+      "remediation": "Aut aperiam perferendis est sit ipsa et sit. Veritatis nihil velit sed corrupti ut nostrum. Nisi aliquam et id voluptas.",
+      "exploit_available": 1,
+      "cvss_score": 5.4,
+      "cvss3_score": 7.3,
+      "cves": [
+        "Quo aspernatur in ut voluptatem quod ex. Adipisci non ducimus veniam ut. Voluptas quasi ut consequuntur sint odit. Molestiae molestiae eligendi quos dolore.",
+        "Animi harum ipsa sint non repellendus. Ut repellat dolorem non maxime delectus. Expedita officia modi et a facilis nihil."
+      ],
+      "external_links": [
+        {
+          "url": "http://miller.com/voluptas-ea-non-in-aut-non",
+          "title": "See Also"
+        },
+        {
+          "url": "https://farrell.com/veniam-maiores-non-omnis-deleniti-aut-neque-minima.html",
+          "title": "See Also"
+        }
+      ],
+      "nessus_plugin_family": "Perferendis dolor ipsum laboriosam hic est omnis. Ratione quod cum eveniet animi dolor reprehenderit veniam. Aliquam sed vel suscipit vero itaque. Culpa maxime id vero.",
+      "nessus_plugin_id": null,
+      "created_at": "2023-01-30 15:44:05",
+      "updated_at": "2023-01-30 15:44:05",
+      "deleted_at": null,
+      "additional_affected_asset_fields": [
+        "Cassie Dibbert",
+        "Donavon Torp DVM",
+        "Major Schulist"
+      ],
+      "record_to_remove": null
+    },
+    {
+      "uuid": "9fec63e6-9b80-36f9-9dfc-9a6539d9dfaa",
+      "name": "Weak password policy",
+      "severity": "HIGH",
+      "category": "Generic",
+      "description": "Eos aspernatur ad qui voluptate. Fugiat aut laboriosam voluptas nam eligendi ut et et. Ex aliquam et unde suscipit. Dicta qui explicabo quibusdam atque est.",
+      "remediation": "Maiores natus voluptates iusto ipsum et dolor autem. Quia quae libero et voluptate. Tempora similique voluptatum accusamus porro. Id soluta rerum similique.",
+      "exploit_available": 1,
+      "cvss_score": 2.1,
+      "cvss3_score": 2,
+      "cves": [
+        "Ut inventore qui voluptas. Minus aspernatur est excepturi aut. Amet aut voluptas sunt ut et.",
+        "Nihil velit repudiandae adipisci sed quam suscipit. Quia sed quas nisi. Perspiciatis ipsam dolorem sint unde ipsum qui."
+      ],
+      "external_links": [
+        {
+          "url": "http://www.veum.com/enim-ex-ratione-optio-error-sint-omnis-autem-quis.html",
+          "title": "See Also"
+        },
+        {
+          "url": "http://bruen.com/",
+          "title": "See Also"
+        }
+      ],
+      "nessus_plugin_family": "Est qui necessitatibus non repellat. Mollitia soluta repudiandae voluptatem molestias necessitatibus. Incidunt dolores expedita aut et.",
+      "nessus_plugin_id": null,
+      "created_at": "2023-01-30 15:44:05",
+      "updated_at": "2023-01-30 15:44:05",
+      "deleted_at": null,
+      "additional_affected_asset_fields": [
+        "Larissa Harris",
+        "Lucienne Russel",
+        "Donavon Stokes"
+      ],
+      "record_to_remove": null
+    },
+    {
+      "uuid": "0af645b3-6e16-35d7-9e3c-25a801deb128",
+      "name": "Abshire-McClure",
+      "severity": "HIGH",
+      "category": "Generic",
+      "description": "Voluptatem veniam aut et necessitatibus ipsa. Et rem rem laborum a. Sed dolores porro consequatur quia libero illo praesentium.",
+      "remediation": "Eos animi facilis quia adipisci nemo quae. Omnis enim voluptatum laborum modi vel id.",
+      "exploit_available": 1,
+      "cvss_score": 4.9,
+      "cvss3_score": 1.3,
+      "cves": [
+        "Harum autem nisi consequatur quod. Dicta eius quia quas qui explicabo numquam sapiente. Quidem veritatis totam nam veritatis in.",
+        "Numquam et voluptas et recusandae aspernatur quia iusto. Error et dolores et fugiat debitis. Dignissimos itaque earum rem voluptatem. Amet iusto molestias earum et corporis velit."
+      ],
+      "external_links": [
+        {
+          "url": "http://www.walter.com/",
+          "title": "See Also"
+        },
+        {
+          "url": "http://walsh.biz/dolorem-est-deleniti-harum-repellendus",
+          "title": "See Also"
+        }
+      ],
+      "nessus_plugin_family": "Aut facilis aut consequatur sunt et porro. Saepe et voluptas neque. Commodi facere architecto tempora alias.",
+      "nessus_plugin_id": null,
+      "created_at": "2023-01-30 15:44:11",
+      "updated_at": "2023-01-30 15:44:11",
+      "deleted_at": null,
+      "additional_affected_asset_fields": [
+        "Edgar Price V",
+        "Kristy Stanton",
+        "Prof. Ewald Rau III"
+      ],
+      "record_to_remove": null
+    },
+    {
+      "uuid": "74856bc9-ac9e-3929-a6f4-f8ee598f7e72",
+      "name": "Heller PLC",
+      "severity": "CRITICAL",
+      "category": "Generic",
+      "description": "Nam maxime distinctio consequatur et eveniet voluptas laudantium ea. Quod aut ipsam fugiat iste amet quod eveniet recusandae. Explicabo provident qui ut perferendis sed quidem commodi soluta.",
+      "remediation": "Aut iste iste cupiditate sit autem saepe. Soluta autem sunt aliquam placeat dolor. Voluptatibus maiores aliquid omnis pariatur dolorem incidunt.",
+      "exploit_available": 1,
+      "cvss_score": 2.8,
+      "cvss3_score": 3.6,
+      "cves": [
+        "Exercitationem non sit aut suscipit. Eveniet vitae dolores occaecati vero labore sint error rerum. Maxime laudantium eum autem deserunt adipisci. Corrupti animi aut blanditiis ex.",
+        "Doloremque assumenda quia quos consequatur et dicta odit. Sequi consectetur veniam occaecati quasi alias quidem vel. Laborum animi enim non possimus omnis labore aut."
+      ],
+      "external_links": [
+        {
+          "url": "http://thiel.com/saepe-eum-sit-placeat-maiores-quibusdam-qui",
+          "title": "See Also"
+        },
+        {
+          "url": "http://www.padberg.biz/et-consectetur-ut-sunt-doloribus-voluptatibus-tempora.html",
+          "title": "See Also"
+        }
+      ],
+      "nessus_plugin_family": "Non expedita quis molestias. Voluptas voluptatem in corrupti architecto non vitae ipsam. Voluptatem necessitatibus odio molestiae impedit quae ut quo.",
+      "nessus_plugin_id": null,
+      "created_at": "2023-01-30 15:44:11",
+      "updated_at": "2023-01-30 15:44:11",
+      "deleted_at": null,
+      "additional_affected_asset_fields": [
+        "Ms. Marie Zieme Jr.",
+        "Javon Nienow",
+        "Juvenal Willms"
+      ],
+      "record_to_remove": null
+    },
+    {
+      "uuid": "33cf66b5-d0b8-3f92-984e-4bec3eb5206e",
+      "name": "Hane, DuBuque and Turner",
+      "severity": "INFO",
+      "category": "Generic",
+      "description": "Molestiae sunt eligendi autem. Voluptatibus ea in distinctio eos aliquam. Eaque maxime tempore et ipsam autem consequatur dolor.",
+      "remediation": "Voluptate cum deserunt at omnis animi fugit. Velit non mollitia aut a qui et rem. Quam quia eum aliquam. Quos reiciendis sed et atque porro quis animi iusto.",
+      "exploit_available": 1,
+      "cvss_score": 1.2,
+      "cvss3_score": 3.1,
+      "cves": [
+        "Qui omnis quisquam aperiam in sunt adipisci. Illo dolore eos dolor asperiores veritatis tempora atque ipsa. Atque et nemo numquam ipsum sit.",
+        "Aperiam corrupti atque explicabo libero excepturi dolorum. Consequatur numquam sed fugiat a animi et. Sint tenetur magnam sint. Esse veniam atque aut consequuntur quibusdam perferendis."
+      ],
+      "external_links": [
+        {
+          "url": "http://www.rath.org/voluptates-nobis-sint-esse-possimus-odit-asperiores",
+          "title": "See Also"
+        },
+        {
+          "url": "https://towne.net/beatae-laborum-aliquid-sequi-totam-et-magnam.html",
+          "title": "See Also"
+        }
+      ],
+      "nessus_plugin_family": "Aliquam doloribus quos sit. Esse aut facilis eos at dolorem. Vero in quas ab quia excepturi eum minima. Quos ipsa qui nemo omnis vero nisi. Ut beatae aut qui eum qui. Qui repudiandae sed at quo.",
+      "nessus_plugin_id": null,
+      "created_at": "2023-01-30 15:44:11",
+      "updated_at": "2023-01-30 15:44:11",
+      "deleted_at": null,
+      "additional_affected_asset_fields": [
+        "Alisa Lueilwitz",
+        "Kirsten Sawayn",
+        "Savannah Hermann"
+      ],
+      "record_to_remove": null
+    },
+    {
+      "uuid": "46481c03-5e48-3536-953a-cd00780a25f7",
+      "name": "Beier-Tillman",
+      "severity": "INFO",
+      "category": "Generic",
+      "description": "Iste architecto expedita sequi non. Sunt optio ullam voluptatem qui minima. Saepe nihil impedit quasi qui ducimus et.",
+      "remediation": "Assumenda suscipit voluptatem odit dolorem. Illum repellat dolor illum architecto atque libero. Et assumenda qui saepe in quis.",
+      "exploit_available": 1,
+      "cvss_score": 1.7,
+      "cvss3_score": 6.9,
+      "cves": [
+        "Fugit aut iste fuga neque nobis. Explicabo mollitia nihil qui vel. Aperiam totam minima ut tenetur rerum.",
+        "Fuga voluptas esse aut sint consequatur. Assumenda nam voluptatem dolores non maiores delectus ut. Qui enim consectetur possimus omnis incidunt excepturi modi."
+      ],
+      "external_links": [
+        {
+          "url": "https://www.lueilwitz.com/enim-perspiciatis-consequatur-voluptas-et-magnam",
+          "title": "See Also"
+        },
+        {
+          "url": "http://stokes.biz/",
+          "title": "See Also"
+        }
+      ],
+      "nessus_plugin_family": "Temporibus et sit iure dolor numquam voluptates. Aut atque et facere et sed molestias porro. Ducimus pariatur non assumenda accusamus fugit unde.",
+      "nessus_plugin_id": null,
+      "created_at": "2023-01-30 15:44:11",
+      "updated_at": "2023-01-30 15:44:11",
+      "deleted_at": null,
+      "additional_affected_asset_fields": [
+        "Ruben Gottlieb",
+        "Carli DuBuque PhD",
+        "Dr. Jesse Abbott Jr."
+      ],
+      "record_to_remove": null
+    },
+    {
+      "uuid": "1e90d0ec-09dc-36a9-afae-3593f0d56222",
+      "name": "Stamm PLC",
+      "severity": "LOW",
+      "category": "Generic",
+      "description": "Quos a sed cumque deleniti culpa nobis. Et natus nulla quam blanditiis quia vero. Necessitatibus illum fugiat fuga quo. Animi voluptatum natus sint culpa commodi.",
+      "remediation": "Eum consequuntur nobis qui pariatur sit et dolorum. Commodi ut unde tempore et sed. Consequatur sed sed et impedit magni. Ut et est voluptas necessitatibus minima perspiciatis.",
+      "exploit_available": 1,
+      "cvss_score": 3.1,
+      "cvss3_score": 9.3,
+      "cves": [
+        "Nulla totam minus illo aspernatur error ut voluptatibus. Illo assumenda quidem mollitia et distinctio nam debitis. Dolores rerum perferendis ut maiores autem est.",
+        "Est dolores repellat id. Itaque officiis ut dolor expedita ut labore sint. Non dolore veritatis quas architecto. Animi vitae in cum placeat."
+      ],
+      "external_links": [
+        {
+          "url": "http://schoen.net/excepturi-omnis-nobis-quis",
+          "title": "See Also"
+        },
+        {
+          "url": "http://cormier.com/provident-at-dicta-voluptatem-commodi",
+          "title": "See Also"
+        }
+      ],
+      "nessus_plugin_family": "Et voluptatem consectetur tempore tempore sint dolores. Temporibus minus omnis recusandae omnis accusamus. Ea est ut sint qui aliquid.",
+      "nessus_plugin_id": null,
+      "created_at": "2023-01-30 15:44:11",
+      "updated_at": "2023-01-30 15:44:11",
+      "deleted_at": null,
+      "additional_affected_asset_fields": [
+        "Meda West PhD",
+        "Zetta Kerluke",
+        "Laurie Cremin"
+      ],
+      "record_to_remove": null
+    },
+    {
+      "uuid": "44b72146-55b5-3049-bd2f-6e4300cfe1d5",
+      "name": "Bruen-Wiza",
+      "severity": "MEDIUM",
+      "category": "Generic",
+      "description": "Perferendis laboriosam eum consequatur. Fugit quis porro ullam earum veritatis. Sequi numquam unde eius. Sed aspernatur cumque voluptatum quam at hic.",
+      "remediation": "Qui eveniet ut est. Omnis omnis quia molestiae magnam. Perspiciatis consequuntur optio ullam accusamus. Eum vero voluptas possimus voluptas adipisci nihil sed nihil.",
+      "exploit_available": 1,
+      "cvss_score": 1.8,
+      "cvss3_score": 1.2,
+      "cves": [
+        "Dolores voluptatibus non dolores cum dolores. Sed molestias iste voluptatem doloribus. Velit amet sit repellendus sunt.",
+        "Quis porro tempora perspiciatis repellat dolor mollitia saepe. Nihil ab fugit dolorem et qui qui maiores."
+      ],
+      "external_links": [
+        {
+          "url": "http://bahringer.com/explicabo-voluptas-voluptatem-fugit-laudantium-sit-totam.html",
+          "title": "See Also"
+        },
+        {
+          "url": "http://rogahn.org/",
+          "title": "See Also"
+        }
+      ],
+      "nessus_plugin_family": "Magni veritatis voluptates et. Voluptatem eius sed laudantium dolore aspernatur voluptates dolor. Aut nemo temporibus dolorem officia ab atque nisi aperiam.",
+      "nessus_plugin_id": null,
+      "created_at": "2023-01-30 15:44:11",
+      "updated_at": "2023-01-30 15:44:11",
+      "deleted_at": null,
+      "additional_affected_asset_fields": [
+        "Grace Mayert",
+        "Alexie Bogisich",
+        "Triston Schimmel DDS"
+      ],
+      "record_to_remove": null
+    },
+    {
+      "uuid": "774d1260-e5ea-3f85-af51-fac6857c9c25",
+      "name": "Reichert-Konopelski",
+      "severity": "MEDIUM",
+      "category": "Generic",
+      "description": "Minima eum qui voluptatibus laudantium qui. Quod nesciunt sed est. Accusantium laborum saepe error quis voluptatum ut. Sunt sequi itaque sint ut eos praesentium aut.",
+      "remediation": "Iste fugit quaerat sit odit dolorem. Deserunt ut fugit placeat repellat. Recusandae qui quod voluptatem dicta nihil facere est autem. Voluptatem voluptatem labore ut quaerat consectetur.",
+      "exploit_available": 1,
+      "cvss_score": 2.3,
+      "cvss3_score": 6.7,
+      "cves": [
+        "Sunt id ea consequatur. Eaque ut at repellat voluptas praesentium qui. Natus facilis unde suscipit fuga possimus rerum dolor.",
+        "Cupiditate dolores aut qui velit dolores voluptatem est. Est repellendus nam minus a iste. Velit ut recusandae laborum assumenda."
+      ],
+      "external_links": [
+        {
+          "url": "http://stark.com/ipsa-occaecati-reprehenderit-quos-qui-quasi-numquam-ab",
+          "title": "See Also"
+        },
+        {
+          "url": "https://www.ritchie.com/in-est-harum-hic-delectus-neque-beatae",
+          "title": "See Also"
+        }
+      ],
+      "nessus_plugin_family": "Quia necessitatibus dolorum repellat et. Minima itaque ex aut. Nihil et dolores et tenetur illo dolor. Mollitia consequatur fuga quia id porro nulla adipisci.",
+      "nessus_plugin_id": null,
+      "created_at": "2023-01-30 15:44:11",
+      "updated_at": "2023-01-30 15:44:11",
+      "deleted_at": null,
+      "additional_affected_asset_fields": [
+        "Bernice Maggio V",
+        "Aurelio Daniel",
+        "Clovis Gleason"
+      ],
+      "record_to_remove": null
+    },
+    {
+      "uuid": "cab178e9-091a-3cfc-b605-ee373b01d398",
+      "name": "Lakin, Greenfelder and Heaney",
+      "severity": "CRITICAL",
+      "category": "Generic",
+      "description": "Adipisci quae qui est tempora. Dolores consectetur voluptate iusto unde illum.",
+      "remediation": "Et est consequatur voluptatem tenetur autem excepturi. Sed dignissimos aperiam earum error. Culpa fuga eius nisi sunt est. Maiores magni consequatur modi quibusdam.",
+      "exploit_available": 1,
+      "cvss_score": 5.6,
+      "cvss3_score": 2.3,
+      "cves": [
+        "Culpa voluptate aut nisi itaque. Vitae voluptatem nihil voluptates facere quisquam modi. Ut aut repellendus doloribus perspiciatis. Velit sunt qui aut incidunt soluta.",
+        "Aut occaecati aut voluptas corporis corrupti nesciunt aliquid. Consequatur sit voluptas vel. Error omnis ut animi blanditiis non aperiam eius."
+      ],
+      "external_links": [
+        {
+          "url": "http://www.nolan.com/",
+          "title": "See Also"
+        },
+        {
+          "url": "http://price.com/repellendus-assumenda-magni-hic-est-itaque-fugit-repudiandae",
+          "title": "See Also"
+        }
+      ],
+      "nessus_plugin_family": "Ullam fugiat enim sint molestiae maiores similique. Quis quibusdam mollitia ea veniam omnis qui omnis. Tempore eius et itaque possimus molestias quos. Ea quae maiores sunt.",
+      "nessus_plugin_id": null,
+      "created_at": "2023-01-30 15:44:11",
+      "updated_at": "2023-01-30 15:44:11",
+      "deleted_at": null,
+      "additional_affected_asset_fields": [
+        "Freddie Huels DVM",
+        "Vada Hand",
+        "Ruthie Strosin"
+      ],
+      "record_to_remove": null
+    },
+    {
+      "uuid": "a9a35042-4bbf-3383-a404-f24720019b89",
+      "name": "Jacobs, Spencer and Wyman",
+      "severity": "MEDIUM",
+      "category": "Generic",
+      "description": "Et recusandae et modi et dolore. Qui fugit veritatis itaque dolor dolor ipsa. Quam ratione inventore voluptates quam esse vero delectus.",
+      "remediation": "Ea ad voluptates et quis sed. Veniam id porro culpa quis natus occaecati amet. Autem praesentium corporis enim.",
+      "exploit_available": 1,
+      "cvss_score": 0.5,
+      "cvss3_score": 0.3,
+      "cves": [
+        "Dignissimos in minima hic corporis. Aut quaerat voluptas quod quis optio voluptatem enim. Et totam quod officiis reprehenderit ipsam unde. Sit quae dolores quae molestiae eaque id vel.",
+        "Quasi earum nihil voluptatem ut deserunt. Quis illo dolorum fugiat quia aliquam autem quia. Blanditiis accusantium sit aspernatur illo harum in."
+      ],
+      "external_links": [
+        {
+          "url": "http://www.bernier.info/error-quia-et-fugiat-consequuntur-quia",
+          "title": "See Also"
+        },
+        {
+          "url": "http://www.pouros.info/",
+          "title": "See Also"
+        }
+      ],
+      "nessus_plugin_family": "Et sunt qui labore dolor iste ea quos. Explicabo voluptatum vero et natus.",
+      "nessus_plugin_id": null,
+      "created_at": "2023-01-30 15:44:11",
+      "updated_at": "2023-01-30 15:44:11",
+      "deleted_at": null,
+      "additional_affected_asset_fields": [
+        "Prof. Burnice Cole",
+        "Margarett Lehner",
+        "Dr. Kelley Parisian"
+      ],
+      "record_to_remove": null
+    },
+    {
+      "uuid": "3f96bfea-bff9-3e3e-bab1-375853dbaf41",
+      "name": "Zulauf PLC",
+      "severity": "MEDIUM",
+      "category": "Generic",
+      "description": "Eos accusamus sint sunt provident dolorum nesciunt. Impedit in voluptatum voluptates rem aspernatur eligendi. Et quia maiores voluptatem quidem dolores.",
+      "remediation": "Eum possimus molestiae velit qui iusto non. Autem sit error a neque molestiae est itaque. Sint a illum vero labore est culpa error quae. Placeat iure sunt quaerat corporis dolore.",
+      "exploit_available": 1,
+      "cvss_score": 4.8,
+      "cvss3_score": 2.4,
+      "cves": [
+        "Culpa excepturi et officiis esse. Fugit cupiditate nobis quibusdam ipsum molestias deleniti laudantium. Nemo rerum dicta quam impedit iusto maxime. Est quo facere mollitia sed omnis atque porro.",
+        "Qui est voluptatem repudiandae quia architecto id. Eum deserunt sunt cupiditate modi ut. Dolore nobis inventore vel ut voluptatem quia exercitationem consequatur."
+      ],
+      "external_links": [
+        {
+          "url": "https://kunde.com/veritatis-amet-numquam-in-adipisci-fugiat-laborum-sunt.html",
+          "title": "See Also"
+        },
+        {
+          "url": "http://wehner.org/",
+          "title": "See Also"
+        }
+      ],
+      "nessus_plugin_family": "Porro velit dolorem dolores sint. Expedita quam inventore ea perspiciatis. Distinctio rem ut ea est. Rerum adipisci est perferendis.",
+      "nessus_plugin_id": null,
+      "created_at": "2023-01-30 15:44:11",
+      "updated_at": "2023-01-30 15:44:11",
+      "deleted_at": null,
+      "additional_affected_asset_fields": [
+        "Betsy Hilpert",
+        "Alicia Bayer",
+        "Amaya Rippin"
+      ],
+      "record_to_remove": null
+    },
+    {
+      "uuid": "c326e212-1dba-3c28-84dd-0cbfb9db1414",
+      "name": "Wolf, O'Conner and Hill",
+      "severity": "MEDIUM",
+      "category": "Generic",
+      "description": "Esse et id facere. Quia sunt excepturi repudiandae eum debitis occaecati. Incidunt ea et voluptas et debitis voluptates cum. Praesentium et quidem et mollitia dolores temporibus.",
+      "remediation": "Nulla quasi ea et libero voluptas quia. Sint eius voluptate eaque ab cumque sunt magni repellat. Inventore deserunt quas iste voluptatem.",
+      "exploit_available": 1,
+      "cvss_score": 6.3,
+      "cvss3_score": 3.1,
+      "cves": [
+        "Delectus architecto nobis aliquid. Ad rerum aspernatur quo accusantium reprehenderit placeat. Enim rerum natus fugiat dolorum amet rerum voluptatem.",
+        "Dolor nulla ut dolores porro. Molestias odio nam sequi tenetur minus. Iste rerum sit earum quo et. Quasi optio id accusantium mollitia. Rerum minus praesentium eveniet ad est."
+      ],
+      "external_links": [
+        {
+          "url": "http://hamill.org/",
+          "title": "See Also"
+        },
+        {
+          "url": "http://baumbach.org/",
+          "title": "See Also"
+        }
+      ],
+      "nessus_plugin_family": "Atque ut commodi ut ratione. Omnis repudiandae amet inventore tempora ut fugit. Et nobis quia necessitatibus enim exercitationem totam. Voluptatibus saepe et et accusamus sunt eligendi ea.",
+      "nessus_plugin_id": null,
+      "created_at": "2023-01-30 15:44:11",
+      "updated_at": "2023-01-30 15:44:11",
+      "deleted_at": null,
+      "additional_affected_asset_fields": [
+        "Dr. Jettie Stark PhD",
+        "General Mertz",
+        "Bailee Koelpin DVM"
+      ],
+      "record_to_remove": null
+    },
+    {
+      "uuid": "981026b8-7bd4-328a-9a29-e30c60126427",
+      "name": "McKenzie, Heller and Bartell",
+      "severity": "MEDIUM",
+      "category": "Generic",
+      "description": "Sunt nemo eligendi facilis ipsum sint. Dolorum sit consequatur labore non voluptas consequatur quas. Dicta quisquam non totam.",
+      "remediation": "Possimus quasi quaerat veritatis aliquid. Commodi totam ut animi. Repudiandae aut nihil accusantium. Debitis neque occaecati eveniet facere et natus eos temporibus.",
+      "exploit_available": 1,
+      "cvss_score": 8.6,
+      "cvss3_score": 7.8,
+      "cves": [
+        "Amet ea explicabo sit molestias. Ut nam earum quibusdam dolorem illo saepe. Autem repudiandae consequatur modi sunt et architecto illo perspiciatis.",
+        "Laboriosam magni distinctio ad dolorem quibusdam odit saepe. Natus iusto similique minus nulla. Alias nostrum dolorum blanditiis repellendus."
+      ],
+      "external_links": [
+        {
+          "url": "http://www.rosenbaum.com/exercitationem-quo-ipsa-deleniti-voluptas-tenetur-numquam-sequi.html",
+          "title": "See Also"
+        },
+        {
+          "url": "http://altenwerth.com/itaque-sed-dolor-qui-sed.html",
+          "title": "See Also"
+        }
+      ],
+      "nessus_plugin_family": "Odio perferendis consequuntur sint blanditiis rerum non rem. Eum illum accusamus eum reprehenderit reiciendis. Perspiciatis veritatis animi nihil et cumque iure. Sed est ut sunt ea.",
+      "nessus_plugin_id": null,
+      "created_at": "2023-01-30 15:44:11",
+      "updated_at": "2023-01-30 15:44:11",
+      "deleted_at": null,
+      "additional_affected_asset_fields": [
+        "Everett Rodriguez",
+        "Cierra Olson IV",
+        "Zachery Batz"
+      ],
+      "record_to_remove": null
+    },
+    {
+      "uuid": "7c48909f-2647-3769-80c1-9e3cc284cade",
+      "name": "McKenzie-Becker",
+      "severity": "CRITICAL",
+      "category": "Generic",
+      "description": "Deleniti sit ea minima quia omnis tempora dicta. Est qui suscipit et quo enim porro veniam. Laboriosam debitis aliquam neque fugiat autem eligendi. Vitae voluptas aliquid et ratione nesciunt quis.",
+      "remediation": "Modi culpa id ut pariatur. Necessitatibus odio voluptatum deleniti. Voluptates qui necessitatibus qui.",
+      "exploit_available": 1,
+      "cvss_score": 5.2,
+      "cvss3_score": 9.9,
+      "cves": [
+        "At nihil et necessitatibus et. Possimus nihil labore quisquam sed in harum similique. Quaerat eos voluptate rerum nihil. Maxime dolorum deserunt dicta totam minima.",
+        "Quibusdam magni perspiciatis ea dolores. Vitae eos quia eos voluptates sit."
+      ],
+      "external_links": [
+        {
+          "url": "http://cummings.com/",
+          "title": "See Also"
+        },
+        {
+          "url": "https://gorczany.net/exercitationem-et-et-ratione-temporibus-fugiat-qui.html",
+          "title": "See Also"
+        }
+      ],
+      "nessus_plugin_family": "Ea impedit dolore ut quasi perspiciatis. Corporis vel omnis aut dignissimos. Qui id sit id natus. Voluptatibus ab et fugiat similique ut recusandae natus.",
+      "nessus_plugin_id": null,
+      "created_at": "2023-01-30 15:44:11",
+      "updated_at": "2023-01-30 15:44:11",
+      "deleted_at": null,
+      "additional_affected_asset_fields": [
+        "Prof. Ezequiel Huels",
+        "Oswaldo Rodriguez",
+        "Nicholaus Wunsch"
+      ],
+      "record_to_remove": null
+    },
+    {
+      "uuid": "b94b4667-aac5-36dd-9a74-88e8b7a5f117",
+      "name": "Goodwin, Abshire and Jakubowski",
+      "severity": "HIGH",
+      "category": "Generic",
+      "description": "Et quod consectetur corrupti ipsa quam cum. Labore dolore tempora earum impedit veniam.",
+      "remediation": "Et vitae quis minus ut eligendi doloribus ipsa. Voluptate autem aut cupiditate qui atque ut.",
+      "exploit_available": 1,
+      "cvss_score": 3.5,
+      "cvss3_score": 1.3,
+      "cves": [
+        "Autem et excepturi voluptatem reiciendis aliquam exercitationem. Omnis nihil omnis culpa totam et ipsam. Corporis odit quo quae doloremque esse.",
+        "Et voluptatibus sed odit est illum voluptas soluta rerum. Voluptatem consequatur unde expedita exercitationem labore quia sed cupiditate. Corporis est dolorum nulla qui laudantium ullam."
+      ],
+      "external_links": [
+        {
+          "url": "http://rau.net/repudiandae-esse-aspernatur-ab-maiores-et-aut-aut-illum",
+          "title": "See Also"
+        },
+        {
+          "url": "http://www.bailey.com/ut-cum-tempora-est-magnam-sit-atque-atque",
+          "title": "See Also"
+        }
+      ],
+      "nessus_plugin_family": "Commodi sed fuga error incidunt excepturi. Dolor perferendis non qui fuga alias culpa. Atque nulla ut doloribus consectetur ipsam ea dolor nihil.",
+      "nessus_plugin_id": null,
+      "created_at": "2023-01-30 15:44:11",
+      "updated_at": "2023-01-30 15:44:11",
+      "deleted_at": null,
+      "additional_affected_asset_fields": [
+        "Lonie Gislason Jr.",
+        "Gerda West",
+        "Rosina Rippin"
+      ],
+      "record_to_remove": null
+    },
+    {
+      "uuid": "a0d62d5d-febb-3448-8b47-fd0865f7c182",
+      "name": "West LLC",
+      "severity": "MEDIUM",
+      "category": "Generic",
+      "description": "Qui unde quasi molestiae. Sed animi possimus molestiae occaecati velit magni culpa. Et omnis aut enim odio voluptatum et cupiditate. Aut perferendis animi ut repellat accusamus autem rerum.",
+      "remediation": "Consectetur omnis velit qui ut. Sed minus recusandae et voluptatem. Et optio consequatur accusantium rem. Nam quia error illo vel eos unde iure. Minima pariatur deleniti sed omnis est quia.",
+      "exploit_available": 1,
+      "cvss_score": 3.4,
+      "cvss3_score": 3.9,
+      "cves": [
+        "Aut aut enim velit aut debitis repudiandae qui ratione. Dolorem omnis quisquam aperiam cupiditate dolore. Quis optio nihil ipsum quo.",
+        "Iste reiciendis a fugiat mollitia laudantium quia et. Ab voluptas similique commodi maxime quisquam quis. Atque nisi sit delectus pariatur accusantium. Aliquid temporibus et rem facere sed."
+      ],
+      "external_links": [
+        {
+          "url": "http://corwin.net/dicta-quasi-fugit-laborum-et-impedit-beatae-aliquam",
+          "title": "See Also"
+        },
+        {
+          "url": "http://corkery.com/et-quisquam-iste-neque-voluptatem",
+          "title": "See Also"
+        }
+      ],
+      "nessus_plugin_family": "Assumenda molestiae accusamus sit impedit doloribus et. Nesciunt qui commodi distinctio non et. Delectus veritatis qui ullam quae. Esse expedita ipsa est minima.",
+      "nessus_plugin_id": null,
+      "created_at": "2023-01-30 15:44:11",
+      "updated_at": "2023-01-30 15:44:11",
+      "deleted_at": null,
+      "additional_affected_asset_fields": [
+        "Allene O'Reilly",
+        "Maureen Hettinger",
+        "Melisa Buckridge"
+      ],
+      "record_to_remove": null
+    },
+    {
+      "uuid": "a44ab0c8-c034-3960-8986-316f680c2967",
+      "name": "Raynor-Emard",
+      "severity": "MEDIUM",
+      "category": "Generic",
+      "description": "Maiores doloribus consequatur sit. Voluptatem aut vel est. Porro cupiditate vitae doloribus tempore enim ullam.",
+      "remediation": "Voluptates unde expedita eligendi ut et. Vel architecto aliquid enim et ipsa est rem. Quibusdam nam velit officia est consequatur vero qui harum.",
+      "exploit_available": 1,
+      "cvss_score": 3.7,
+      "cvss3_score": 0.1,
+      "cves": [
+        "Rerum doloribus et rem perferendis molestiae voluptate est. Velit ea dolores recusandae nemo. Ex consequuntur quod corrupti quidem.",
+        "Et ratione consequatur consequuntur sit. Delectus aut atque voluptatum repellat optio dolorem odit et. Nisi incidunt quia ab. Asperiores suscipit praesentium inventore ut quos."
+      ],
+      "external_links": [
+        {
+          "url": "http://fritsch.com/et-reiciendis-commodi-voluptas-autem-deleniti-autem-occaecati-vero",
+          "title": "See Also"
+        },
+        {
+          "url": "http://bednar.com/quia-est-officia-temporibus-eius-qui-autem",
+          "title": "See Also"
+        }
+      ],
+      "nessus_plugin_family": "Dolor nostrum doloribus animi fugiat quis unde accusantium. At reiciendis rem possimus eum. Et nam ipsa similique sapiente reprehenderit accusantium nihil. Harum sequi aut et occaecati praesentium.",
+      "nessus_plugin_id": null,
+      "created_at": "2023-01-30 15:44:11",
+      "updated_at": "2023-01-30 15:44:11",
+      "deleted_at": null,
+      "additional_affected_asset_fields": [
+        "Dr. Brook Aufderhar III",
+        "Candido Abshire",
+        "Shany Russel MD"
+      ],
+      "record_to_remove": null
+    },
+    {
+      "uuid": "610a505f-c3bf-34a1-a9ec-b42a02995110",
+      "name": "Bruen and Sons",
+      "severity": "LOW",
+      "category": "Generic",
+      "description": "Iste nobis est atque quae. Illo ipsam eius non quam numquam sint voluptates aut. Quasi autem sed sunt necessitatibus hic. Quisquam totam nostrum ex fugit error.",
+      "remediation": "Aut vel consequuntur nihil porro rerum. Vel porro recusandae magnam ea. Voluptate ducimus unde sed.",
+      "exploit_available": 1,
+      "cvss_score": 8.2,
+      "cvss3_score": 3.1,
+      "cves": [
+        "Autem et et deserunt voluptatem a. Quisquam id officiis dolor qui modi illo. Saepe ipsam qui facilis molestiae hic quo in. Et omnis rem dolor.",
+        "Asperiores dolor nemo et molestiae voluptas necessitatibus. Omnis quam id id placeat officiis. Sint quaerat expedita eum ut aut totam. Aut reprehenderit accusamus reprehenderit laudantium hic."
+      ],
+      "external_links": [
+        {
+          "url": "http://durgan.info/minus-voluptatem-ducimus-corporis-soluta",
+          "title": "See Also"
+        },
+        {
+          "url": "http://kris.com/iusto-ad-excepturi-alias-cum-sunt.html",
+          "title": "See Also"
+        }
+      ],
+      "nessus_plugin_family": "Veniam sed aperiam deserunt sunt. Iusto architecto est vitae omnis quasi enim. Ut exercitationem in soluta enim autem qui ut.",
+      "nessus_plugin_id": null,
+      "created_at": "2023-01-30 15:44:11",
+      "updated_at": "2023-01-30 15:44:11",
+      "deleted_at": null,
+      "additional_affected_asset_fields": [
+        "Carole Hintz",
+        "Omari Kessler",
+        "Christelle Schmeler"
+      ],
+      "record_to_remove": null
+    },
+    {
+      "uuid": "2b6370f7-6f15-3295-ae90-086346d3e30c",
+      "name": "Dickens, Toy and Cole",
+      "severity": "LOW",
+      "category": "Generic",
+      "description": "Occaecati id eveniet alias voluptas fugiat in. Veritatis numquam praesentium at qui et vel ut. Omnis recusandae ut nobis quidem sunt ut.",
+      "remediation": "Dignissimos soluta nam quo. Non quia voluptate et illo corporis ratione. Consequatur ut ipsum voluptatibus at fugiat.",
+      "exploit_available": 1,
+      "cvss_score": 3.9,
+      "cvss3_score": 9.5,
+      "cves": [
+        "Ipsum numquam voluptatem dolor neque. Inventore voluptatibus ut ut voluptas incidunt quasi.",
+        "Sed in aut aliquam dolorum sunt. Voluptas aperiam sequi harum ut magnam. Sit ex rerum doloribus quis. Harum velit qui maiores."
+      ],
+      "external_links": [
+        {
+          "url": "http://www.ledner.com/doloribus-ea-eius-sunt-sit-ea",
+          "title": "See Also"
+        },
+        {
+          "url": "http://wehner.com/",
+          "title": "See Also"
+        }
+      ],
+      "nessus_plugin_family": "Maxime saepe omnis velit fugit harum laudantium neque. Provident corporis et omnis sapiente. Corporis eos dolor aperiam incidunt iusto et. Eum perspiciatis aliquam deleniti distinctio optio culpa a.",
+      "nessus_plugin_id": null,
+      "created_at": "2023-01-30 15:44:11",
+      "updated_at": "2023-01-30 15:44:11",
+      "deleted_at": null,
+      "additional_affected_asset_fields": [
+        "Reggie Bernhard",
+        "Mrs. Breanna Marks V",
+        "Mr. Brady Gleason"
+      ],
+      "record_to_remove": null
+    },
+    {
+      "uuid": "d76b4a33-319e-3eb7-b213-3639d70e7188",
+      "name": "Jakubowski-Monahan",
+      "severity": "HIGH",
+      "category": "Generic",
+      "description": "Veritatis ut mollitia et omnis sed odio architecto est. Voluptas enim ut occaecati placeat. Laudantium quibusdam omnis in voluptatum. Voluptate omnis non assumenda eaque nesciunt doloribus quidem.",
+      "remediation": "Perspiciatis earum omnis enim sunt occaecati animi. Neque ut laborum qui sequi aspernatur. Consequatur quisquam tempore possimus et quo animi voluptas.",
+      "exploit_available": 1,
+      "cvss_score": 7.7,
+      "cvss3_score": 1.2,
+      "cves": [
+        "Rerum et pariatur et voluptatum est eos. Consequatur omnis illo sed et ut et. Deserunt molestiae aut eos qui eveniet. Ut distinctio adipisci ad dolores omnis.",
+        "Unde velit molestiae est qui necessitatibus hic. Quibusdam est a amet beatae. Deleniti voluptates quod sed velit."
+      ],
+      "external_links": [
+        {
+          "url": "http://www.homenick.com/",
+          "title": "See Also"
+        },
+        {
+          "url": "https://www.wilderman.com/maiores-sed-nemo-sunt-cumque-et-soluta",
+          "title": "See Also"
+        }
+      ],
+      "nessus_plugin_family": "Commodi ipsum esse aperiam sed. Deleniti sunt labore ducimus vitae officia impedit.",
+      "nessus_plugin_id": null,
+      "created_at": "2023-01-30 15:44:11",
+      "updated_at": "2023-01-30 15:44:11",
+      "deleted_at": null,
+      "additional_affected_asset_fields": [
+        "Selena Bednar MD",
+        "Marty Graham",
+        "Aniyah Becker"
+      ],
+      "record_to_remove": null
+    },
+    {
+      "uuid": "a49a3daf-6769-3d17-834b-a6362fa488ec",
+      "name": "McKenzie LLC",
+      "severity": "INFO",
+      "category": "Generic",
+      "description": "Omnis consequatur incidunt unde quas est aut. Provident suscipit sunt quasi dolorem nihil odio magni. Aliquid et sequi non unde velit labore molestiae. Recusandae quos quasi quibusdam maxime.",
+      "remediation": "Aut ratione deserunt nostrum quia asperiores. Unde eum ipsum et alias.",
+      "exploit_available": 1,
+      "cvss_score": 2.8,
+      "cvss3_score": 9,
+      "cves": [
+        "Doloribus ullam fugit sed eveniet et consectetur. Dolores repudiandae saepe delectus illum minus voluptatum. Sint dolores dolorum eveniet aliquam dolores non.",
+        "Aperiam deserunt asperiores consequatur sed. Deserunt ex vel quo iste repudiandae cumque et. Aut laboriosam quia quia dolorem. Sed quis doloremque sint ipsa."
+      ],
+      "external_links": [
+        {
+          "url": "http://www.schimmel.com/illo-odio-blanditiis-accusantium-iste-sapiente",
+          "title": "See Also"
+        },
+        {
+          "url": "http://collier.net/",
+          "title": "See Also"
+        }
+      ],
+      "nessus_plugin_family": "Quo dolor et ut nemo ut excepturi omnis. Autem repudiandae sit fuga perferendis placeat. In rem totam cumque ut odit quis. Dolor at ullam enim.",
+      "nessus_plugin_id": null,
+      "created_at": "2023-01-30 15:44:11",
+      "updated_at": "2023-01-30 15:44:11",
+      "deleted_at": null,
+      "additional_affected_asset_fields": [
+        "Derick Macejkovic DVM",
+        "Prof. Paris Becker Sr.",
+        "Prof. Chelsey Bernier V"
+      ],
+      "record_to_remove": null
+    },
+    {
+      "uuid": "99054131-dc9f-3f11-82d5-89265e9fc448",
+      "name": "Reichert, Kris and Howe",
+      "severity": "MEDIUM",
+      "category": "Generic",
+      "description": "Natus omnis id vel reprehenderit qui. At ex ullam quam. Odit quidem aut impedit consequuntur enim iste. Facere similique illo vel blanditiis hic quo placeat.",
+      "remediation": "Aut sed fuga animi possimus ipsam. Et qui cupiditate nisi labore sit eum. Autem voluptatem reprehenderit possimus omnis qui neque. Ea sed ut ipsam dolorem qui et et.",
+      "exploit_available": 1,
+      "cvss_score": 5.9,
+      "cvss3_score": 0.7,
+      "cves": [
+        "At qui vel id sed nihil facere voluptatem. Ad aut atque deserunt et qui.",
+        "Debitis cupiditate maiores occaecati voluptas. Rerum et non et neque magnam aut nisi animi. Id provident vel minus ut illum mollitia provident. Aut asperiores suscipit aut praesentium."
+      ],
+      "external_links": [
+        {
+          "url": "http://www.breitenberg.com/",
+          "title": "See Also"
+        },
+        {
+          "url": "http://heaney.com/qui-quam-dolorem-autem-ipsam-qui",
+          "title": "See Also"
+        }
+      ],
+      "nessus_plugin_family": "Et aliquid commodi autem corporis. Repellendus doloremque temporibus minima asperiores. Inventore eos nesciunt sint. Dolores ullam aut ut et aut.",
+      "nessus_plugin_id": null,
+      "created_at": "2023-01-30 15:44:11",
+      "updated_at": "2023-01-30 15:44:11",
+      "deleted_at": null,
+      "additional_affected_asset_fields": [
+        "Calista Quitzon",
+        "Rahul Watsica",
+        "Mr. Emmet Marks V"
+      ],
+      "record_to_remove": null
+    },
+    {
+      "uuid": "ebb6a329-e388-358f-a451-128216ff857b",
+      "name": "D'Amore LLC",
+      "severity": "HIGH",
+      "category": "Generic",
+      "description": "Quo est qui doloribus illum perferendis iste. Similique inventore quaerat animi dolorum quos laboriosam quia. Doloremque maiores sit perferendis ut. Commodi quod beatae aut impedit molestiae.",
+      "remediation": "Atque quos minima rerum quis dolore ipsa veniam voluptate. Est sit aperiam non mollitia perferendis sit. Et officia odio omnis id harum qui.",
+      "exploit_available": 1,
+      "cvss_score": 0.5,
+      "cvss3_score": 2.2,
+      "cves": [
+        "Assumenda magnam nisi incidunt iste. Ut quis dolores eligendi repellat unde sequi. Voluptatem dolor quia aut consectetur est incidunt. Fuga doloremque et veritatis eaque voluptatibus.",
+        "Dicta voluptatem architecto architecto. Accusantium earum laborum officia eius laborum aliquid et. Laudantium enim consequatur ea eligendi officiis voluptatem aut."
+      ],
+      "external_links": [
+        {
+          "url": "http://murphy.com/beatae-sit-labore-necessitatibus-ut-dolorum-et-nihil.html",
+          "title": "See Also"
+        },
+        {
+          "url": "https://cruickshank.com/possimus-rem-velit-optio-aperiam-nostrum-saepe-facere.html",
+          "title": "See Also"
+        }
+      ],
+      "nessus_plugin_family": "Commodi soluta quam autem saepe minus occaecati. Illum possimus eos nemo magni qui eveniet est. Maiores eius omnis blanditiis aut fugiat asperiores.",
+      "nessus_plugin_id": null,
+      "created_at": "2023-01-30 15:44:15",
+      "updated_at": "2023-01-30 15:44:15",
+      "deleted_at": null,
+      "additional_affected_asset_fields": [
+        "Lavada Moore",
+        "Dr. Floy Ullrich",
+        "Furman McDermott"
+      ],
+      "record_to_remove": null
+    },
+    {
+      "uuid": "b527e39e-8af0-3529-b6c2-a381d4ed7495",
+      "name": "Renner, Abernathy and Kirlin",
+      "severity": "INFO",
+      "category": "Generic",
+      "description": "Et expedita et est nihil voluptas aut sed. Voluptatibus fugit ex repellat eius ut. Sit eum ratione a consequatur quasi cupiditate.",
+      "remediation": "Sed in repellendus rerum hic pariatur qui. Omnis nam quos natus eligendi vitae. A voluptas commodi consequatur totam. Sed alias occaecati asperiores dolorem ducimus sit.",
+      "exploit_available": 1,
+      "cvss_score": 3.6,
+      "cvss3_score": 5.1,
+      "cves": [
+        "Omnis delectus natus ut cum. Aut et voluptatum iure ipsa saepe aut non. Enim odit repellendus quasi qui magni itaque ipsam necessitatibus. Reiciendis a amet voluptatem nam hic.",
+        "Neque nemo natus cumque repellendus. Totam neque consequatur qui et quisquam ut."
+      ],
+      "external_links": [
+        {
+          "url": "http://www.emmerich.com/ipsa-molestiae-alias-nam-omnis-ullam-et-et",
+          "title": "See Also"
+        },
+        {
+          "url": "http://heidenreich.com/eos-nobis-labore-sed-aspernatur",
+          "title": "See Also"
+        }
+      ],
+      "nessus_plugin_family": "Voluptatem accusantium incidunt fuga dolorum minima autem. Sed et dolores cumque dolores voluptates aliquam. Non consequatur commodi quasi quod voluptatem labore repellat.",
+      "nessus_plugin_id": null,
+      "created_at": "2023-01-30 15:44:15",
+      "updated_at": "2023-01-30 15:44:15",
+      "deleted_at": null,
+      "additional_affected_asset_fields": [
+        "Garrison Olson",
+        "Dr. Emely Howe",
+        "Dorris Gibson"
+      ],
+      "record_to_remove": null
+    },
+    {
+      "uuid": "d260bac8-8d2c-3e3b-a52a-dedf8a5c2177",
+      "name": "Legros, Green and Upton",
+      "severity": "MEDIUM",
+      "category": "Generic",
+      "description": "Nulla voluptatem in deserunt id. Temporibus placeat tempora amet incidunt nostrum excepturi. Tempora et quas dolor.",
+      "remediation": "Corrupti omnis magnam quasi consequatur sit possimus blanditiis. Vero sapiente quod minima est id quisquam corrupti. Repudiandae nihil praesentium sed quis ea rerum ut.",
+      "exploit_available": 1,
+      "cvss_score": 7,
+      "cvss3_score": 5.4,
+      "cves": [
+        "Inventore odit facilis sit odit voluptatem quod quidem. Consequatur quidem nostrum veritatis et voluptates aut adipisci. Architecto provident rerum qui quos corrupti deserunt.",
+        "Atque optio autem odit nulla et sit hic. Pariatur mollitia rerum consectetur et ut corporis. Accusantium ut error voluptatem iste est."
+      ],
+      "external_links": [
+        {
+          "url": "https://www.jenkins.org/molestias-in-dolorem-placeat-numquam-a-non-excepturi",
+          "title": "See Also"
+        },
+        {
+          "url": "https://ullrich.org/illo-aliquid-accusamus-dolorem-debitis-at-fugiat-quibusdam-voluptate.html",
+          "title": "See Also"
+        }
+      ],
+      "nessus_plugin_family": "Non libero quia dolorem illo. Consectetur quibusdam rerum est quisquam et et itaque. Est aliquid nemo aut nobis.",
+      "nessus_plugin_id": null,
+      "created_at": "2023-01-30 15:44:15",
+      "updated_at": "2023-01-30 15:44:15",
+      "deleted_at": null,
+      "additional_affected_asset_fields": [
+        "Mr. Eduardo Johnston I",
+        "Adela Corwin",
+        "Cielo Turcotte"
+      ],
+      "record_to_remove": null
+    },
+    {
+      "uuid": "afad1635-713b-3584-8f20-bb47ef3ba16e",
+      "name": "Dickinson, O'Keefe and Buckridge",
+      "severity": "HIGH",
+      "category": "Generic",
+      "description": "Quia velit est iste ratione in aliquid praesentium. At ad quia labore culpa praesentium est et. Quia unde non laudantium. Ut ducimus enim earum vel.",
+      "remediation": "Repellat vitae deleniti non ipsam animi rem. Iusto facilis pariatur vero praesentium eaque quis. Et itaque qui dolorum.",
+      "exploit_available": 1,
+      "cvss_score": 2,
+      "cvss3_score": 0.2,
+      "cves": [
+        "Vero placeat magni inventore consectetur ad. Quia rerum quibusdam vitae.",
+        "Sed laudantium eaque reprehenderit vel ea rerum perspiciatis corrupti. Blanditiis quia esse inventore. Reiciendis nobis eius tempore qui dolorum sed."
+      ],
+      "external_links": [
+        {
+          "url": "http://mueller.info/sit-voluptas-quis-tenetur-quia-omnis-nihil",
+          "title": "See Also"
+        },
+        {
+          "url": "http://skiles.com/possimus-assumenda-eos-in-possimus-voluptas",
+          "title": "See Also"
+        }
+      ],
+      "nessus_plugin_family": "Ut deleniti voluptatem facere fuga provident voluptatibus eum. Itaque sunt neque quo sed voluptatem ea. Sit quia corporis et odit magni distinctio. Et consectetur quis necessitatibus dignissimos.",
+      "nessus_plugin_id": null,
+      "created_at": "2023-01-30 15:44:15",
+      "updated_at": "2023-01-30 15:44:15",
+      "deleted_at": null,
+      "additional_affected_asset_fields": [
+        "Abbey Botsford",
+        "Natalie Maggio",
+        "Mr. Oren Williamson"
+      ],
+      "record_to_remove": null
+    },
+    {
+      "uuid": "72b4da43-bd9e-379d-b7ee-27450055c500",
+      "name": "Muller, O'Keefe and Toy",
+      "severity": "LOW",
+      "category": "Generic",
+      "description": "Nisi incidunt explicabo eligendi odit accusantium numquam. Quisquam quis illo eligendi odio pariatur maiores harum.",
+      "remediation": "Asperiores magnam culpa atque iste qui omnis. Delectus tempora aspernatur et dicta adipisci. Inventore sit fugit dolores vel modi. Et ut aliquam ullam sit enim cumque labore.",
+      "exploit_available": 1,
+      "cvss_score": 2,
+      "cvss3_score": 8,
+      "cves": [
+        "Quae pariatur corrupti expedita id. Placeat omnis nihil et possimus labore omnis libero et. Sunt accusantium nobis aspernatur ex voluptatibus.",
+        "Quibusdam aut odio ad necessitatibus qui. Repellendus facilis est ex. Amet enim aut omnis rerum recusandae repellat. Tenetur numquam voluptas beatae."
+      ],
+      "external_links": [
+        {
+          "url": "http://brekke.info/labore-doloribus-doloribus-vero",
+          "title": "See Also"
+        },
+        {
+          "url": "http://www.koepp.com/",
+          "title": "See Also"
+        }
+      ],
+      "nessus_plugin_family": "Nihil eos accusamus nobis quae aperiam. Sed ex et eum sed aut laborum. Nulla eveniet debitis modi voluptatem accusamus laudantium. Quisquam et exercitationem voluptatem quidem est.",
+      "nessus_plugin_id": null,
+      "created_at": "2023-01-30 15:44:15",
+      "updated_at": "2023-01-30 15:44:15",
+      "deleted_at": null,
+      "additional_affected_asset_fields": [
+        "Wilford Sanford",
+        "Prof. Freeman Beer",
+        "Ethelyn Ryan MD"
+      ],
+      "record_to_remove": null
+    },
+    {
+      "uuid": "ae3fe984-918e-38a2-8f55-d9ba0a5fe736",
+      "name": "Monahan-King",
+      "severity": "CRITICAL",
+      "category": "Generic",
+      "description": "Ea magni molestias optio quo eum qui voluptatem. Ea tenetur fugit praesentium eaque odit odio. Quidem enim dolores maxime et. Corrupti maiores iste repudiandae voluptatum.",
+      "remediation": "Officia illum vero non id. Debitis sapiente nostrum sit velit quod minima odio. Et esse non explicabo voluptatem quo.",
+      "exploit_available": 1,
+      "cvss_score": 0.4,
+      "cvss3_score": 8.1,
+      "cves": [
+        "Et nihil blanditiis est asperiores. Quo pariatur praesentium ea. Enim molestiae facere maiores autem enim delectus vitae.",
+        "Recusandae impedit voluptatibus eligendi cumque ea corrupti voluptas. Ab id sed officiis molestias. Debitis deleniti voluptate omnis unde."
+      ],
+      "external_links": [
+        {
+          "url": "http://heathcote.com/quia-ut-culpa-repellat-quo-vel",
+          "title": "See Also"
+        },
+        {
+          "url": "http://kuvalis.com/",
+          "title": "See Also"
+        }
+      ],
+      "nessus_plugin_family": "Est eligendi totam eveniet provident. Sunt sed beatae id. Quo quis unde amet culpa qui praesentium ut. Nostrum quaerat dolores iure non.",
+      "nessus_plugin_id": null,
+      "created_at": "2023-01-30 15:44:15",
+      "updated_at": "2023-01-30 15:44:15",
+      "deleted_at": null,
+      "additional_affected_asset_fields": [
+        "Kirstin Fadel",
+        "Jarrett Cummings",
+        "Terrill Carter"
+      ],
+      "record_to_remove": null
+    }
+  ],
+  "first_page_url": "http://localhost:8000/v1/vulnerabilities?page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "http://localhost:8000/v1/vulnerabilities?page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "active": false
+    },
+    {
+      "url": "http://localhost:8000/v1/vulnerabilities?page=1",
+      "label": "1",
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "http://localhost:8000/v1/vulnerabilities",
+  "per_page": 50,
+  "prev_page_url": null,
+  "to": 31,
+  "total": 31
+}
